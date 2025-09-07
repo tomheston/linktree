@@ -4,6 +4,7 @@ This is a clean, mobile-friendly academic landing page for Dr. Thomas F. Heston,
 It consolidates links to citation and research platforms to improve discoverability and citation velocity.
 
 ## 📚 Included Profiles
+- [UW Faculty Page](https://faculty.washington.edu/theston/)
 - [Google Scholar](https://scholar.google.com/citations?user=FyHdomkAAAAJ&hl=en)
 - [ORCID](https://orcid.org/0000-0002-5655-2512)
 - [Zenodo Archive](https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Heston%2C%20Thomas%20F%22&l=list&p=1&s=10&sort=newest)
