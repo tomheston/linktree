@@ -16,5 +16,5 @@ Dr. Heston is a physician-researcher and faculty member at the University of Was
 ---
 
 ### 🔗 Live Page
-Once GitHub Pages is enabled, the live site will be accessible at:https://tomheston.github.io/linktree/
+Once GitHub Pages is enabled, the live site will be accessible at: https://tomheston.github.io/linktree/
 
