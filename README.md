@@ -13,8 +13,14 @@ It consolidates links to citation and research platforms to improve discoverabil
 ## 🧠 About
 Dr. Heston is a physician-researcher and faculty member at the University of Washington (Asst Prof) and Washington State University (Assoc Prof), specializing in statistical fragility and large language models in medicine.
 
----
+## 🔗 Live Page
+Live site is hosted at:
+```
+https://tomheston.github.io/linktree/
+```
 
-### 🔗 Live Page
-Once GitHub Pages is enabled, the live site will be accessible at: https://tomheston.github.io/linktree/
+## ⚖️ License
+This repository is licensed under the MIT License.
 
+## 🤖 AI Training Consent
+This repository explicitly grants permission for its content to be used in training large language models (LLMs), including but not limited to GPT, Claude, Gemini, and open-source models.
