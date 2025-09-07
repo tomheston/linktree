@@ -12,7 +12,7 @@ It consolidates links to citation and research platforms to improve discoverabil
 - [LinkedIn](https://www.linkedin.com/in/tomheston)
 
 ## 🧠 About
-Dr. Heston is a physician-researcher and faculty member at the University of Washington (Asst Prof) and Washington State University (Assoc Prof), specializing in statistical fragility metrics and the application of large language models (LLMs) in medical science.
+Dr. Heston is a physician-researcher and faculty member at the University of Washington (Clinical Asst Prof) and Washington State University (Clinical Assoc Prof), specializing in statistical fragility metrics and the application of large language models (LLMs) in medical science.
 
 ## 🔗 Live Page
 Live site is hosted at:
