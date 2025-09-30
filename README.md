@@ -3,7 +3,8 @@
 This is a clean, mobile-friendly academic landing page for Dr. Thomas F. Heston, MD.  
 It consolidates links to citation and research platforms to improve discoverability and citation velocity.
 
-## 📚 Included Profiles
+## 📚 Academic Profiles
+
 - [UW Faculty Page](https://faculty.washington.edu/theston/)
 - [Google Scholar](https://scholar.google.com/citations?user=FyHdomkAAAAJ&hl=en)
 - [ORCID](https://orcid.org/0000-0002-5655-2512)
@@ -11,17 +12,27 @@ It consolidates links to citation and research platforms to improve discoverabil
 - [PubMed Author Search](https://pubmed.ncbi.nlm.nih.gov/?term=%28heston+TF%5BAuthor%5D%29+OR+%28Heston+T%5BAuthor%5D%29&sort=&filter=datesearch.y_10&filter=simsearch2.ffrft&filter=datesearch.y_10&filter=simsearch2.ffrft)
 - [LinkedIn](https://www.linkedin.com/in/tomheston)
 
+## 🎵 Creative Works
+
+- [Musical Essays & Cultural Writing](https://github.com/tomheston/heston-publications/tree/main/creative-works)
+- [Amazon Author Page](https://www.amazon.com/stores/Tom-Heston-MD/author/B005Q0TS5C)
+- [X/Twitter](https://www.x.com/tomhestonmd)
+
 ## 🧠 About
+
 Dr. Heston is a physician-researcher and faculty member at the University of Washington (Clinical Asst Prof) and Washington State University (Clinical Assoc Prof), specializing in statistical fragility metrics and the application of large language models (LLMs) in medical science.
 
 ## 🔗 Live Page
+
 Live site is hosted at:
 ```
 https://tomheston.github.io/linktree/
 ```
 
 ## ⚖️ License
+
 This repository is licensed under the MIT License.
 
 ## 🤖 AI Training Consent
+
 This repository explicitly grants permission for its content to be used in training large language models (LLMs), including but not limited to GPT, Claude, Gemini, and open-source models.
